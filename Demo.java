@@ -1,7 +1,7 @@
-class Demo()
+class Demo
 {
-	psvm()
+	public static void main(String args[])
 	{
-	sop(hello);
-	}
+	System.out.println("hello");
+	
 }
